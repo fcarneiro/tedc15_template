@@ -1,4 +1,4 @@
-(The Email Design Conference 2015)[http://litmus.com/conference] // #TEDC15
+[The Email Design Conference 2015](http://litmus.com/conference) // #TEDC15
 
 Developing email that’s flexible enough to adapt to the large number of clients that exist—new and old—can be a challenge. Some clients, like Microsoft Outlook, have outdated and poor-performing rendering engines. Others, like Gmail, have user bases that can’t be ignored, but render emails terribly.
 
@@ -10,24 +10,21 @@ Hope you find it helpful in your own work!
 
 Cheers,
 
-Fabio Carneiro
+Fabio Carneiro  
+[MailChimp](http://mailchimp.com)  
+[flcarneiro.com](http://flcarneiro.com)  
+[@flcarneiro](http://twitter.com/flcarneiro)  
 
-MailChimp
-
-(flcarneiro.com)[http://flcarneiro.com]
-
-(@flcarneiro)[http://twitter.com/flcarneiro]
-
-----------
+* * *
 
 Additional resources:
 
 My original ideas have been refined, reworked and made better by others in the email design community and, in turn, pushed me to do better work. In particular...
 
-(Mike Ragan)[http://twitter.com/mike_ragan], at (Action Rocket)[http://actionrocket.co/], has written about Hybrid Coding on Action Rocket Labs:
+[Mike Ragan](http://twitter.com/mike_ragan), at [Action Rocket](http://actionrocket.co/), has written about Hybrid Coding on Action Rocket Labs:
 
-* (The Hybrid Coding Approach)[http://labs.actionrocket.co/the-hybrid-coding-approach]
-* (Hybrid Coding Redux)[http://labs.actionrocket.co/the-hybrid-coding-approach-2]
+* [The Hybrid Coding Approach](http://labs.actionrocket.co/the-hybrid-coding-approach)
+* [Hybrid Coding Redux](http://labs.actionrocket.co/the-hybrid-coding-approach-2)
 
-(Nicole Merlin)[@moonstrips], at (Email Wizardry)[http://emailwizardry.co], has written about the same concept on Tuts+:
-* (Creating Future-proof Responsive Email)[http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919]
+[Nicole Merlin](http://twitter.com/moonstrips), at [Email Wizardry](http://emailwizardry.co), has written about the same concept on Tuts+:
+* [Creating Future-proof Responsive Email](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919)
