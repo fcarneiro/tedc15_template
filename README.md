@@ -1,4 +1,4 @@
-The Email Design Conference 2015 // #TEDC15
+(The Email Design Conference 2015)[http://litmus.com/conference] // #TEDC15
 
 Developing email that’s flexible enough to adapt to the large number of clients that exist—new and old—can be a challenge. Some clients, like Microsoft Outlook, have outdated and poor-performing rendering engines. Others, like Gmail, have user bases that can’t be ignored, but render emails terribly.
 
@@ -11,9 +11,12 @@ Hope you find it helpful in your own work!
 Cheers,
 
 Fabio Carneiro
+
 MailChimp
-flcarneiro.com
-@flcarneiro
+
+(flcarneiro.com)[http://flcarneiro.com]
+
+(@flcarneiro)[http://twitter.com/flcarneiro]
 
 ----------
 
@@ -21,10 +24,10 @@ Additional resources:
 
 My original ideas have been refined, reworked and made better by others in the email design community and, in turn, pushed me to do better work. In particular...
 
-Action Rocket's [http://actionrocket.co/] Mike Ragan [@mike_ragan] has written about Hybrid Coding on Action Rocket Labs:
+(Mike Ragan)[http://twitter.com/mike_ragan], at (Action Rocket)[http://actionrocket.co/], has written about Hybrid Coding on Action Rocket Labs:
 
 * (The Hybrid Coding Approach)[http://labs.actionrocket.co/the-hybrid-coding-approach]
 * (Hybrid Coding Redux)[http://labs.actionrocket.co/the-hybrid-coding-approach-2]
 
-Nicole Merlin [emailwizardry.co, @moonstrips] has written about the same concept on Tuts+:
+(Nicole Merlin)[@moonstrips], at (Email Wizardry)[http://emailwizardry.co], has written about the same concept on Tuts+:
 * (Creating Future-proof Responsive Email)[http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919]
