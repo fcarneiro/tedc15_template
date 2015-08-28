@@ -23,8 +23,8 @@ My original ideas have been refined, reworked and made better by others in the e
 
 Action Rocket's [http://actionrocket.co/] Mike Ragan [@mike_ragan] has written about Hybrid Coding on Action Rocket Labs:
 
-1.(The Hybrid Coding Approach)[http://labs.actionrocket.co/the-hybrid-coding-approach]
-2.(Hybrid Coding Redux)[http://labs.actionrocket.co/the-hybrid-coding-approach-2]
+* (The Hybrid Coding Approach)[http://labs.actionrocket.co/the-hybrid-coding-approach]
+* (Hybrid Coding Redux)[http://labs.actionrocket.co/the-hybrid-coding-approach-2]
 
 Nicole Merlin [emailwizardry.co, @moonstrips] has written about the same concept on Tuts+:
-1. (Creating Future-proof Responsive Email)[http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919]
+* (Creating Future-proof Responsive Email)[http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919]
