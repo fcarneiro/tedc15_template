@@ -22,7 +22,9 @@ Additional resources:
 My original ideas have been refined, reworked and made better by others in the email design community and, in turn, pushed me to do better work. In particular...
 
 Action Rocket's [http://actionrocket.co/] Mike Ragan [@mike_ragan] has written about Hybrid Coding on Action Rocket Labs:
-1. The Hybrid Coding Approach [http://labs.actionrocket.co/the-hybrid-coding-approach]
-2. Hybrid Coding Redux [http://labs.actionrocket.co/the-hybrid-coding-approach-2]
 
-Nicole Merlin [emailwizardry.co, @moonstrips] has written about the same concept on Tuts+ [http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919]
+1.(The Hybrid Coding Approach)[http://labs.actionrocket.co/the-hybrid-coding-approach]
+2.(Hybrid Coding Redux)[http://labs.actionrocket.co/the-hybrid-coding-approach-2]
+
+Nicole Merlin [emailwizardry.co, @moonstrips] has written about the same concept on Tuts+:
+1. (Creating Future-proof Responsive Email)[http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919]
